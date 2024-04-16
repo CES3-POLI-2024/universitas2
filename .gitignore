@@ -36,3 +36,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/src/main/java/co/edu/poli/ces3/universitas2/Arreglos.java
